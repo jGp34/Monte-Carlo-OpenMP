@@ -1,5 +1,5 @@
 -r
-/home/users/jgepereira/monte_carlo/vtune_results/hpc_N500000000_T20
+/home/users/jgepereira/trabalho1/pp/new_results_for_monte_carlo/hpc_N500000000_T20
 --itt-config=frame
 --bandwidth-limits
 --collector=perf
